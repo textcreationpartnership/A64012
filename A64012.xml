@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo letters concerning the East-India Company</title>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64012</idno><idno type="EEBO-CITATION">12186790</idno>
+  <idno type="VID">55802</idno>
+  <idno type="EEBO-PROQUEST">2240954317</idno>
+  
+            <idno type="STC">Wing T3455</idno>
+            <idno type="STC">ESTC R3828</idno>
+            <idno type="OCLC">12186790</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A64012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55802)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 880:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo letters concerning the East-India Company</title>
+               </titleStmt>
+               <extent>[2], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">East India Company.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55802:1"/>
+            <pb facs="tcp:55802:1"/>
+            <p>TVVO LETTERS CONCERNING THE EAST-INDIA Company.</p>
+            <p>Printed in the Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:55802:2"/>
+            <pb n="1" facs="tcp:55802:2"/>
+            <head>A Letter from a Countrey Gentleman, to a Barrister of the <hi>Inner Temple, LONDON.</hi>
+            </head>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>THe last Post brought me news of such <hi>Factions</hi> and <hi>Divisions</hi> in the <hi>East-India Company</hi> as (my Friend saies) have shaken their Credit; and adds, that one of the <hi>Factions</hi> had induced his <hi>Majesty</hi> to in<g ref="char:EOLhyphen"/>terpose by <hi>Letters</hi> in the <hi>Election</hi> of their <hi>Governors</hi> and <hi>Com<g ref="char:EOLhyphen"/>mittees,</hi> and to prohibit their choice of some persons by name: I can easily conclude that those <hi>Letters</hi> will not extinguish the Strifes amongst them; perhaps they will make every man jealous of his <hi>Liberty</hi> and <hi>Property,</hi> but I am not able to resolve what is best for me to do upon it: All my <hi>Stock</hi> for my younger <hi>Childrens</hi> Provisions, I placed in that <hi>Compa<g ref="char:EOLhyphen"/>nies</hi> hands at <hi>Interest,</hi> and have their <hi>Common Seal</hi> for it, believing it the best Security now left in <hi>England,</hi> presuming that I might have it upon demand, as my occasions should require; But I hear that many of the Company's <hi>Creditors</hi> have called for their Money from them in all haste; and a <hi>Neighbour</hi> of mine puts many Scruples n my head about my Security by their <hi>Common Seal,</hi> and questions their Standing when the <hi>Parliament</hi> shall sit: I pray' make Enquiry for me into the whole Affair, and let me have your Opinion in
+<pb n="2" facs="tcp:55802:3"/>
+               <hi>Law,</hi> whether my Security be good; and your Advice in Prudence, whether I shall Trust my <hi>Money</hi> any longer in the <hi>Company's</hi> hands: Your Pains in it shall not be lost, nor your Kindness forgotten by,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your most, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <head>The <hi>Barrister's</hi> Answer.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur Demand of my Opinion of the Sufficiency of the <hi>East-India Company's Common Seal,</hi> to Secure your <hi>Childrens Money,</hi> hath made me peruse their <hi>Charter,</hi> and Discourse a Principal <hi>Merchant</hi> a<g ref="char:EOLhyphen"/>mongst them about their <hi>Trade,</hi> and their present Distracti<g ref="char:EOLhyphen"/>ons; but what hath passed between the <hi>Court</hi> and them ought to be like a <hi>Noli me tangere</hi> to one of my Profession; and I know you will excuse me if I say nothing of it; but to advise about your <hi>Money</hi> is my Duty.</p>
+            <p>I suppose you were induced to put your <hi>Money</hi> into that <hi>Company's</hi> hands, by the Riches and the Repute of the Mem<g ref="char:EOLhyphen"/>bers of it; believing that you had not only three or four
+<pb n="3" facs="tcp:55802:3"/>able men bound for your Security, but perhaps a hundred of the most Wealthy and Creditable Traders of all <hi>England:</hi> I know they were cryed up as infallible Security, and <hi>Lenders</hi> thought themselves obliged to the <hi>Company</hi> to accept their <hi>Moneys</hi> at <hi>Interest:</hi> this Reputation was such a Net, as caught the Fish by Sholes, and enabled them to borrow about 600000 <hi>ll.</hi> every <hi>Lender</hi> thinking he had so many Rich men in his Chest, when he had the <hi>Compay's Seal</hi> there; but I am afraid you will scarce Credit me, if I tell you that their <hi>Seal</hi> is less Security for your <hi>Money,</hi> than the Word of any Sufficient Man in the <hi>Company;</hi> For their <hi>Common Seal</hi> binds not any one of the Company's <hi>Persons,</hi> nor <hi>Estates,</hi> ei<g ref="char:EOLhyphen"/>ther real or personal; you can neither Arrest, nor Implead great nor small amongst them upon their <hi>Common Seal;</hi> and if you should demand your <hi>Money</hi> of any particular person, he would but laugh at you, and bid you go to the <hi>Company</hi> with your <hi>Seal,</hi> for he owes you ot a Groat.</p>
+            <p>'Tis true, the <hi>Company</hi> may be Sued (if their <hi>Creditors</hi> please) for 500000 <hi>ll.</hi> or 600000 <hi>ll.</hi> or more this <hi>Term,</hi> and in two or three <hi>Terms</hi> they may have <hi>Judgment</hi> against the <hi>Company</hi> upon their several <hi>Seals,</hi> but they can have no Exe<g ref="char:EOLhyphen"/>cution against any Member of the <hi>Company,</hi> nor his Goods; they may take the <hi>Company's</hi> Goods and Chattels in Execution if they can find any; they might extend the <hi>Company's</hi> Land, if they had any; but who can tell where to seize Goods of the <hi>Company's</hi> to pay the <hi>Creditors five Shilling per Pound?</hi> Yet, admitting there were Goods of greater value belonging to the <hi>Company,</hi> when the Sutes are Commenced they may provide for their own Members by a Divident, and every one of them have his own, and their <hi>Creditors</hi> never a penny unless they can catch it in the <hi>Indies.</hi>
+            </p>
+            <p>The <hi>Creditors</hi> of the <hi>Company</hi> of <hi>Grocers,</hi> and <hi>Merchant-adventurers</hi> thought those <hi>Companies Seals</hi> as good as yours,
+<pb n="4" facs="tcp:55802:4"/>for far above a 100000 <hi>ll.</hi> value, and the Members of either <hi>Company</hi> are Rich enough; yet they laugh at their <hi>Creditors,</hi> and have not the Honesty, as I can hear, to offer them <hi>Half a Crown</hi> in the <hi>Pound.</hi>
+            </p>
+            <p>Yet I doubt your Case is more Hazardous, the <hi>East-India Company</hi> Trading wholly with their <hi>Creditors Money,</hi> and running no risk of their own: 'tis seldom that they have much above 600000 <hi>ll.</hi> in value in their <hi>India Factories,</hi> and upon the <hi>Seas</hi> at one time, which is all their <hi>Creditors Mo<g ref="char:EOLhyphen"/>ney;</hi> and if their <hi>Factories</hi> and Goods should be destroyed by the <hi>Indians,</hi> or <hi>Infidels,</hi> and their <hi>Ships</hi> lost, or taken in <hi>Warr,</hi> or by <hi>Pyrates,</hi> they can secure their own Stock to that Value, by a speedy Divident of what they have here; and then bid their <hi>Creditors</hi> find a thing in the Clouds, called their <hi>Company,</hi> to Arrest for their <hi>Moneys</hi> at the best; you are at the Mercy and Will of you know not whom for your <hi>Moneys,</hi> and the <hi>Company</hi> may be bold at <hi>Sea</hi> and <hi>Land</hi> to make <hi>Warr</hi> against whom they please in the <hi>Indies,</hi> to build <hi>Forts</hi> and <hi>Ca<g ref="char:EOLhyphen"/>stles,</hi> and to take Mens Persons and Goods there by force of Arms; if they prosper, they make 20 or 40 <hi>per Cent.</hi> of your <hi>Moneys,</hi> and pay you <hi>6 per Cent.</hi> whilst their <hi>Company</hi> lists; and if they miscarry in any kind, they cannot loose, if they keep but as much in <hi>Bank</hi> of <hi>Money</hi> and <hi>Goods</hi> as will answer their particular <hi>Stock.</hi>
+            </p>
+            <p>One thing I cannot omit to observe out of the Company's <hi>Pattent,</hi> That the <hi>King,</hi> who impowered them to use a <hi>Common Seal,</hi> thought it not sufficient Security to him for <hi>six Months</hi> for his <hi>Customes</hi> and <hi>Duties</hi> that should be payable for their Goods Imported, he grants that his Officers shall give them two several <hi>six Months</hi> for the Payment of their <hi>Customs, they giving good and sufficient Bond with Surety to the use of Us, our Heirs, and Successors for the true Payment of the same;</hi> (so are the words) and if <hi>you</hi> and your <hi>Counsel</hi> had been as Cau<g ref="char:EOLhyphen"/>tious
+<pb n="5" facs="tcp:55802:4"/>as his <hi>Majesty</hi> and his <hi>Counsel,</hi> you would have had some of the <hi>Company's Bond</hi> and a <hi>Surety</hi> too, before you had parted with your <hi>Money:</hi> But I believe they had never been such <hi>Bankers,</hi> as to have deserved <hi>Court-Letters</hi> about their <hi>Offi<g ref="char:EOLhyphen"/>cers,</hi> if they had been forced to give their <hi>Bond</hi> with <hi>Surety</hi> for their many 100000 <hi>ll.</hi> they have borrowed; per<g ref="char:EOLhyphen"/>haps the great <hi>Usurers</hi> of that <hi>Company</hi> would not then have put out their own <hi>Moneys</hi> upon <hi>Bond</hi> Security, and taken up yours to Trade with.</p>
+            <p>It was pity the <hi>Lombord-street Bankers</hi> had not a <hi>Pattent</hi> with a <hi>Common Seal,</hi> and to have been made a <hi>Company,</hi> and by your Example the People might have lent them <hi>Millions</hi> upon their <hi>Seals,</hi> and they might have lent it again for <hi>double</hi> or <hi>trebble Interest,</hi> and payed <hi>single</hi> as long as they had Re<g ref="char:EOLhyphen"/>ceived <hi>double;</hi> and when they had failed, their <hi>Persons</hi> and <hi>Estates</hi> had been secure without fear of <hi>Bayliffs,</hi> or <hi>Statutes of Bankerupt.</hi>
+            </p>
+            <p>If this seem sharp upon you, excuse me, you deserve it, that would not Advise with me before you parted with your <hi>Money,</hi> when you know it would have cost you nothing: but perhaps you will hope that this <hi>Company</hi> will be more ho<g ref="char:EOLhyphen"/>nest than some others, or at least that their prospect of Gain in this Trade, will make them pay well, that they may con<g ref="char:EOLhyphen"/>tinue their vast profit of other mens <hi>Money</hi> without hazard.</p>
+            <p>I confess this might quiet your mind a little, 'till you could get some Security for your <hi>Money,</hi> if this <hi>East-India Company</hi> had any firm Legal Foundation, or any probability of stand<g ref="char:EOLhyphen"/>ing and enjoying the sole Trade of half the World, as now they do, but se their <hi>Pattent</hi> on which they stand, which grants to the <hi>Governors and Company:</hi>
+            </p>
+            <p>
+               <hi>That they and their Successors,</hi> &amp;c. <hi>shall for ever hereafter use and enjoy the whole intire and only Trade and Traffick, and the whole entire, and only Liberty, Use and Priviledge of Tra<g ref="char:EOLhyphen"/>ding,</hi>
+               <pb n="6" facs="tcp:55802:5"/>
+               <hi>Trafficking, and using the Trade of Merchandize to &amp; from the</hi> East-Indies, <hi>&amp;c. And farther saith the Patent, by Vertue of Our Prerogative Royal, which we will not in that be half have argued, or brought into question, we straightly prohibit,</hi> &amp;c. <hi>all the Subjects of Us, our Heirs and Successors, that none of them do directly or indirectly, Visit, Trade or Traffick, or adventure by way of Merchandize, into, or from any of the</hi> East-Indies, <hi>&amp;c. except the said Governor and Company,</hi> &amp;c. <hi>under the penalty of Our Indignation, and the Forfeiture of all Goods whatsoever so to be brught into this Realm, or any of our Dominions, the one half of all the Forfeitures to be to Us, our Heirs,</hi> &amp;c. <hi>and the other half is granted to the Company: and all and every Offenders therein, for their Contempt to suffer Imprisonment during Our pleasure, and such other Punishment as to Us, our Heirs,</hi> &amp;c. <hi>shall seem meet, and not to be delivered till every of them be bound to the Governor in</hi> 1000 <hi>ll. at least, neer to Sayl or Traffick into the said</hi> East-Indies, <hi>&amp;c. And We do grant to you the Governor,</hi> &amp;c. <hi>to Seize upon the Persons of all such</hi> En<g ref="char:EOLhyphen"/>glish, <hi>or any our Subjects in the said</hi> East-Indies, <hi>which shall Sayl thither, or Inhabit there without their leave</hi> &amp;c. <hi>or that shall disobey their Orders,</hi> &amp;c.</p>
+            <p>I need not tell you (that are of the <hi>Commission</hi> of the <hi>Peace,</hi> and have Read the <hi>Statutes</hi>) the Invalidity of this <hi>Patent;</hi> you have Read (I am sure) the <hi>Statute</hi> of 21. <hi>Jac. cap.</hi> 3 whose preamble contains a Judgment in Parliament; <hi>That all Grants of Monopolies are against the Antient and Fundamental Laws of this Kingdom.</hi>
+            </p>
+            <p>And our <hi>Law-Books</hi> define a <hi>Monopoly,</hi> to be <hi>An Institutioner Allowance by the King by his Graunt, Comission, or otherwise, to any person, body Politick or Corporate, of or for, the only buy<g ref="char:EOLhyphen"/>ing, selling, or using of any thing whereby any person or persons are sought to be restrained of any Freedomer Liberty which they had before, or hindred in their Lawful Trade or Traffick.</hi>
+            </p>
+            <pb n="7" facs="tcp:55802:5"/>
+            <p> I must light a Candle to the Sun if I should endeavour to evince the <hi>Governor's</hi> and <hi>Company's Patent</hi> to be a Grant of a <hi>Monopoly:</hi> I may call it the <hi>Monopoly</hi> of <hi>Monopolies,</hi> that re<g ref="char:EOLhyphen"/>strains almost all <hi>English men</hi> from their lawful Visiting, and Trafficking into so many parts of <hi>Asia, Affrica,</hi> and <hi>America,</hi> as includes <hi>half</hi> the <hi>World.</hi>
+            </p>
+            <p>One such <hi>Patent</hi> more for the sole <hi>Trade</hi> of the other <hi>half</hi> of the <hi>World,</hi> to such another Number of men, or to half a hundred of the <hi>Courtiers</hi> (and Sir <hi>John B.</hi> to be the first <hi>Go<g ref="char:EOLhyphen"/>vernor</hi>) might raise some <hi>Millions</hi> by the year for <hi>Licences</hi> to <hi>Traders,</hi> to Sail and Traffick to several Countreys; besides the Fines and Forfeitures which would amount to much more; and <hi>two</hi> such <hi>Companies</hi> might well allow to the Crown 120000 <hi>ll. per. mensem,</hi> and excuse our Land of all <hi>Subsidies,</hi> and <hi>Taxes</hi> for ever.</p>
+            <p>'Tis worth the observing; That the words of the <hi>Statute</hi> are of as large extent, as the wits of men could invent, <hi>to pre<g ref="char:EOLhyphen"/>vent the Restriction of any Liberty of Trade whatsoever;</hi> And least Penalties upon the <hi>Grantees,</hi> injured by the <hi>Statutes,</hi> should not deter them to acceptsuch <hi>Grants</hi> from the Crown: The <hi>Statute</hi> provides, <hi>That all persons Bodies, Politick</hi> and <hi>Cor<g ref="char:EOLhyphen"/>porate, which then were, or the nee after should be, should Stand and be disabled and uncapable to have, use, exercise or put in use, any such Monopoles.</hi> It makes an incapacity in every body to take any such <hi>Graunt</hi> of a <hi>sole Trade,</hi> to restrain the Freedom of the People: Now the <hi>Governor</hi> and the <hi>Company</hi> I speak of, being uncapable to take such a <hi>Patent;</hi> do you judge, whe<g ref="char:EOLhyphen"/>ther this <hi>Company</hi> hath any Subsistance, or Being in <hi>Law,</hi> and thence you can collect, the true value of their <hi>Seal,</hi> that hath passed for so much <hi>Money,</hi> and the probability of their stand<g ref="char:EOLhyphen"/>ing.</p>
+            <p>But this <hi>Patent</hi> ought to have some other name than a <hi>Monopoly:</hi> It Creates Forfeitures of the Estates of all <hi>English<g ref="char:EOLhyphen"/>men</hi>
+               <pb n="8" facs="tcp:55802:6"/>that dare dwell in, or <hi>Visit,</hi> or <hi>Trade</hi> to <hi>half</hi> the <hi>World: It</hi> gives power over their <hi>Persons</hi> to <hi>Imprison</hi> and keep in <hi>Goals</hi> during pleasure: <hi>It</hi> Asserts or Creates an Arbitrary Power in the <hi>Crown</hi> of punishing <hi>English-men</hi> by Discretion after they are <hi>Imprijoned,</hi> and their <hi>Estates seized: It</hi> subjects all <hi>English-men</hi> that accept for necessities sake of Imployments under the <hi>Governor</hi> and <hi>Company</hi> to be punished at the will of them and their Servants according to Discretion, not excepting <hi>Life</hi> it self, either from the <hi>Crown</hi> in the first place, or the <hi>Company</hi> in the next.</p>
+            <p>I cannot but wonder what <hi>Lawyer</hi> drew this <hi>Patent:</hi> Eve<g ref="char:EOLhyphen"/>ry puny <hi>Mooter</hi> in our <hi>Halls</hi> knows, <hi>That no Forfeirures of any kind can grow by Letters Patents:</hi> for it was adjudged in the 41. <hi>Eliz. fol.</hi> 125. <hi>Case de Londzes,</hi> King <hi>Henry</hi> the <hi>6th</hi> grant<g ref="char:EOLhyphen"/>ed to the <hi>Corporation</hi> of <hi>Dyers</hi> in <hi>London, That every Cloath Dyed with Logwood should be Forfeited;</hi> and their Charter con<g ref="char:EOLhyphen"/>teining this Forfeiture, was judged, <hi>against the Law of the Land, and</hi> Magna Charta.</p>
+            <p>Every <hi>Lawyer</hi> also knows; <hi>That no Patent can restrain the Liberty of the Su'ject in any thing.</hi> In the 41. <hi>Eliz. Davenant and Hurds</hi> Case. The <hi>Mercant-Taylers</hi> having power by <hi>Antient Charter</hi> to make <hi>Ordinances</hi> for their <hi>Society,</hi> Or<g ref="char:EOLhyphen"/>dained, <hi>That every Brother of that Society should put one half of his Cloaths to be dressed by some Cloath-worker free of the Com<g ref="char:EOLhyphen"/>pany upon the Forfeiture of ten Shillings:</hi> That <hi>Ordinance</hi> was adjudged to be against the <hi>Law;</hi> for that <hi>Every Subject hath a Freedom to put his Cloaths to be dressed by whom he will.</hi> King <hi>Philip</hi> and Queen <hi>M<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry</hi> granted a <hi>Patent</hi> to the Town of <hi>South-hampton,</hi> That all <hi>Malmsey Wines brought into this Realm should be Landed only at their Port,</hi> with a Prohibition, <hi>That no person should do otherwise under pain of trebble Custom:</hi> And it was Resolved by all the Judges, <hi>That the Grant being in Restraint of the Freedom of the People for Landing Wines,</hi>
+               <pb n="9" facs="tcp:55802:6"/>
+               <hi>was against the Law and Great Charter, and meerly void.</hi>
+            </p>
+            <p>I protest I am astonished! Could any man in a Gown, <hi>Soli<g ref="char:EOLhyphen"/>citer</hi> or <hi>Attorny General</hi> be ignorant, That every <hi>English-man</hi> hath such a <hi>Property</hi> in his <hi>Estate, Privileges, Liberty, Person, Limb</hi> and <hi>Life,</hi> That none of them can be subject to be Seized, Forfeited, or any way destroyed, but by force of <hi>Laws</hi> made by the Free Consent in <hi>Parliament:</hi> Is not this the Distinction between the <hi>Turkish</hi> and <hi>French Vassals</hi> and Free-born <hi>English-men?</hi> I say again, how durst any <hi>Lawyer</hi> draw this <hi>Patent?</hi>
+            </p>
+            <p>You see now, I am a little Zealous in my own Profession of the <hi>Law,</hi> being Sworn to it: But I doubt I shall put you into a worse Fright about the <hi>Seal</hi> for your <hi>Money,</hi> if I should tell you that I am afraid, That the <hi>Governor</hi> and <hi>Company</hi> I talk of, having Petitioned for, and accepted such a <hi>Patent,</hi> are in dan<g ref="char:EOLhyphen"/>ger not only to pay trebble Damages to all whom they have Abused, Hindred, Grieved, or Disturbed in their <hi>Trades</hi> to the <hi>Indies</hi> by Colour of their <hi>Patent,</hi> according to the <hi>Statute</hi> of 21. <hi>Jac. cap.</hi> 3. (and perhaps such Damages may amount to some 100000 <hi>ll.</hi> at least) But they are also in hazard to be Punished and Fined by the <hi>Common Law,</hi> and especially by <hi>Parliament,</hi> for Seeking for, Propounding and Accepting such a <hi>Patent.</hi>
+            </p>
+            <p>Doubtless every Offence against the Fundamental <hi>Laws</hi> is punishable: It was one of the Articles against <hi>William Dela<g ref="char:EOLhyphen"/>pool,</hi> Duke of <hi>Sussex, That he had procured from the Crown di<g ref="char:EOLhyphen"/>vers Liberties in Derogation of the Common Law:</hi> See <hi>Rol. Parl.</hi> 28. <hi>Hen. 6. Num. 30.</hi> In the <hi>5th Ed. 3. John Peachy</hi> of <hi>London</hi> was severely punished for procuring <hi>4 Patent for sole Vending of Sweet Wines.</hi> You know what was done to some in King <hi>James</hi> and the late <hi>Kings</hi> time for petty Restraint procured upon <hi>Trade.</hi>
+            </p>
+            <p>Yet I must confess and farther tell you, That the Security is the worse, because of the Fear of such Questioning in
+<pb n="10" facs="tcp:55802:7"/>
+               <hi>Parliament</hi> may at any time make the <hi>Governor</hi> and <hi>Company</hi> Dissolve their <hi>Corporation;</hi> which they may do any <hi>Spring,</hi> by omitting to choose a <hi>Governor</hi> and <hi>Committees</hi> between the tenth and last of <hi>April:</hi> And as the <hi>Patent</hi> is drawn, Restrain<g ref="char:EOLhyphen"/>ing them <hi>from all Powers not therein expressed.</hi>
+            </p>
+            <p>I doubt such an Omission, after a Divident amongst them<g ref="char:EOLhyphen"/>selves, to save their own Stock, may Dissolve the <hi>Corpora<g ref="char:EOLhyphen"/>tion,</hi> if it had been well Founded by a <hi>Legal Graunt</hi> of <hi>Pow<g ref="char:EOLhyphen"/>ers,</hi> and <hi>Priviledges,</hi> which were in the <hi>Kings</hi> power to <hi>Give:</hi> But the <hi>Patent</hi> being such; as you may from hence collect, I should trouble you in vain, to shew you how the <hi>Company</hi> de<g ref="char:EOLhyphen"/>pends upon the <hi>Kings</hi> pleasure; And upon what easie terms he may Null it if they offend him.</p>
+            <p>Do not suffer any to deceive you with hopes of this <hi>Com<g ref="char:EOLhyphen"/>pany's</hi> standing, under pretence of some benefit that accrews to the <hi>Crown</hi> by <hi>Customs,</hi> or the Necessity of a <hi>Company;</hi> ha<g ref="char:EOLhyphen"/>ving <hi>Forts</hi> and <hi>Factories</hi> in those parts of the World, which could not be withont a <hi>Governor</hi> and <hi>Company.</hi>
+            </p>
+            <p>I that am no Trader know, That the <hi>Parliament</hi> could if it be a useful Trade to <hi>England</hi> (which I am no proper Judge of) have established Legally such Rules whereby the <hi>Trade</hi> might have been managed, and <hi>Factories, Forts</hi> and <hi>Castles</hi> maintained; and the Liberty of Trade might have been pre<g ref="char:EOLhyphen"/>served to every <hi>English-man,</hi> and five times the <hi>Trade</hi> gained, and the price of our own Manufactures of Cloath and others, advanced, by the multitude and freedom of Buyers; and the price of the Goods Imported much lessened to the <hi>English,</hi> and much more Trade with these Commodities gained into o<g ref="char:EOLhyphen"/>ther parts of the world. An Instance of this, is well known in the <hi>Turkey Company,</hi> where no Merchant can be excluded or denyed to Trade with their particular Stock; yet the same pretences might have been for Restraint, that some do vainly suggest in this.
+<pb n="11" facs="tcp:55802:7"/>I have now done like one that loves you; And have stoln time from my <hi>Clyents</hi> in the mid'st of <hi>Term</hi> to Answer your Desires at large. You may see by this, what Security you have for your Money by the <hi>Seal;</hi> The Prudential part, how to come by it, I must refer to your self; your share of Prudence being far Superior to that of,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your most Faith<g ref="char:EOLhyphen"/>ful SERVANT.</signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>IForgot to Observe to you, a thing Remarkable in my Opinion: It seems, many persons of great Quality, and eminent Merchants were Sutors to Q. <hi>Eliz.</hi> in the 41. of her Reign to be made a Body Corporate by the Name of the <hi>Go<g ref="char:EOLhyphen"/>vernor</hi> and <hi>Company</hi> of Merchants Trading to the <hi>East-Indies,</hi> and a <hi>Patent</hi> was granted accordingly; But no Prohi<g ref="char:EOLhyphen"/>bition is granted for others to Trade thither under the For<g ref="char:EOLhyphen"/>feitures, Pains and Penalties, nor any grant of those extra<g ref="char:EOLhyphen"/>vagant Illegal Powers, unto which this present <hi>Company</hi> pretends: <hi>See the care of that Age to preserve Freedom and Property.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
